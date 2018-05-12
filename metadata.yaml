@@ -1,0 +1,35 @@
+_repo: The-ViolinSome-Account-of-That-Leading-Instrument-and-Its-Most-Eminent-Professors-from-Its-Ea__40289
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dubourg, George
+    birthdate: 1799
+    deathdate: 1882
+    gutenberg_agent_id: '40529'
+    url: http://www.gutenberg.org/2009/agents/40529
+description: ''
+gutenberg_issued: '2012-07-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40289'
+  lccn: '77362583'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Violin'
+- !lcsh 'Violinists -- Biography'
+- !lcc 'ML'
+tableOfContents: Origin and early history of the violin -- The Italian School -- Paganini
+  -- The French School -- The German School -- The English School -- Amateurs -- Female
+  violinists -- On the construction of the violin -- Miscellaneous anecdotes, collected
+  scraps, eccentric varieties, &c.
+title: 'The Violin
+
+  Some Account of That Leading Instrument and Its Most Eminent Professors, from Its
+  Earliest Date to the Present Time; with Hints to Amateurs, Anecdotes, etc.'
+url: http://www.gutenberg.org/ebooks/40289
